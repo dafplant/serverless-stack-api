@@ -51,4 +51,6 @@ env.yml
 # Jetbrains IDEs
 .idea
 
+# Annoying DS Store thing
 .DS_Store
+

@@ -24,6 +24,7 @@ provider:
   #  sampleEnvVar: ${env:SAMPLE_ENV_VAR}
   environment:
     tableName: notes
+    stripeSecretKey: ${env:sk_test_N4ft7GxmFbkV7CpmF8WbbrSJ00sAxAXSDl}
 
   iamRoleStatements:
     - Effect: Allow
